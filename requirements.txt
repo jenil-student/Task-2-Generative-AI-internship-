@@ -1,7 +1,7 @@
 streamlit
 diffusers[torch]
 torch
-Pillow
+pillow
 gradio
 scipy
 numpy
@@ -33,7 +33,7 @@ mypy
 bandit
 flake8
 coverage
-Sphinx
+sphinx
 alembic
 celery
 redis
@@ -41,16 +41,10 @@ boto3
 google-cloud-storage
 azure-storage-blob
 python-dotenv
-pillow
 imageio
 opencv-python
 tqdm
 pyyaml
 joblib
-seaborn
 plotly
 dash
-streamlit
-diffusers[torch]
-torch
-Pillow
