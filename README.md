@@ -9,7 +9,7 @@ This task demonstrates how to generate images from text prompts using a diffusio
 
 ## How to Use
 1. Install requirements: `pip install -r requirements.txt`
-2. Run the app: `streamlit app.py`
+2. Run the app: `streamlit run app.py`
 3. Enter your prompt and click 'Generate Image'.
 
 
