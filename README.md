@@ -12,8 +12,6 @@ This task demonstrates how to generate images from text prompts using a diffusio
 2. Run the app: `streamlit run generate_image.py`
 3. Enter your prompt and click 'Generate Image'.
 
-## Deployment
-- See `DEPLOYMENT.md` for deployment instructions (Streamlit Cloud/Heroku ready).
 
 ## References
 - [Hugging Face Diffusers Documentation](https://huggingface.co/docs/diffusers/index)
